@@ -1,7 +1,6 @@
 import pytest
-from capital import capital_case
 
-def test_capital_case():
+
 
 
 @pytest.mark.smoke
